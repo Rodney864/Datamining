@@ -6,4 +6,3 @@ Project 2: Classification
 
 Project 3: Regression 
 
-Project 4: Clustering
